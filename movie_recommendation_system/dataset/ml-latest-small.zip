@@ -1,0 +1,11 @@
+--2021-02-01 12:01:39--  http://files.grouplens.org/datasets/movielens/
+Resolving files.grouplens.org (files.grouplens.org)... 128.101.65.152
+Connecting to files.grouplens.org (files.grouplens.org)|128.101.65.152|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7084 (6.9K) [text/html]
+Saving to: ‘index.html.2’
+
+     0K ......                                                100%  171M=0s
+
+2021-02-01 12:01:40 (171 MB/s) - ‘index.html.2’ saved [7084/7084]
+
